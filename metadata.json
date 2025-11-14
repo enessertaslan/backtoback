@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Era Shifter",
+  "description": "Upload an image and use AI to transform it into different historical eras or apply custom edits with simple text prompts. Powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
